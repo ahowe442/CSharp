@@ -1,0 +1,12 @@
+/Users/cohowe/Documents/LaunchCodeWork/C#/Exercises/2.5.Exercises-DataTypes/2.5.Exercises-DataTypes/bin/Debug/netcoreapp3.1/2.5.Exercises-DataTypes.deps.json
+/Users/cohowe/Documents/LaunchCodeWork/C#/Exercises/2.5.Exercises-DataTypes/2.5.Exercises-DataTypes/bin/Debug/netcoreapp3.1/2.5.Exercises-DataTypes.runtimeconfig.json
+/Users/cohowe/Documents/LaunchCodeWork/C#/Exercises/2.5.Exercises-DataTypes/2.5.Exercises-DataTypes/bin/Debug/netcoreapp3.1/2.5.Exercises-DataTypes.runtimeconfig.dev.json
+/Users/cohowe/Documents/LaunchCodeWork/C#/Exercises/2.5.Exercises-DataTypes/2.5.Exercises-DataTypes/bin/Debug/netcoreapp3.1/2.5.Exercises-DataTypes.dll
+/Users/cohowe/Documents/LaunchCodeWork/C#/Exercises/2.5.Exercises-DataTypes/2.5.Exercises-DataTypes/bin/Debug/netcoreapp3.1/2.5.Exercises-DataTypes.pdb
+/Users/cohowe/Documents/LaunchCodeWork/C#/Exercises/2.5.Exercises-DataTypes/2.5.Exercises-DataTypes/obj/Debug/netcoreapp3.1/2.5.Exercises-DataTypes.csprojAssemblyReference.cache
+/Users/cohowe/Documents/LaunchCodeWork/C#/Exercises/2.5.Exercises-DataTypes/2.5.Exercises-DataTypes/obj/Debug/netcoreapp3.1/2.5.Exercises-DataTypes.AssemblyInfoInputs.cache
+/Users/cohowe/Documents/LaunchCodeWork/C#/Exercises/2.5.Exercises-DataTypes/2.5.Exercises-DataTypes/obj/Debug/netcoreapp3.1/2.5.Exercises-DataTypes.AssemblyInfo.cs
+/Users/cohowe/Documents/LaunchCodeWork/C#/Exercises/2.5.Exercises-DataTypes/2.5.Exercises-DataTypes/obj/Debug/netcoreapp3.1/2.5.Exercises-DataTypes.csproj.CoreCompileInputs.cache
+/Users/cohowe/Documents/LaunchCodeWork/C#/Exercises/2.5.Exercises-DataTypes/2.5.Exercises-DataTypes/obj/Debug/netcoreapp3.1/2.5.Exercises-DataTypes.dll
+/Users/cohowe/Documents/LaunchCodeWork/C#/Exercises/2.5.Exercises-DataTypes/2.5.Exercises-DataTypes/obj/Debug/netcoreapp3.1/2.5.Exercises-DataTypes.pdb
+/Users/cohowe/Documents/LaunchCodeWork/C#/Exercises/2.5.Exercises-DataTypes/2.5.Exercises-DataTypes/obj/Debug/netcoreapp3.1/2.5.Exercises-DataTypes.genruntimeconfig.cache
