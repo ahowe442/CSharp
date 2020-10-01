@@ -1,0 +1,12 @@
+/Users/cohowe/Documents/LaunchCodeWork/C#/Notes/2.2-DataTypes/2.2-DataTypes/bin/Debug/netcoreapp3.1/2.2-DataTypes.deps.json
+/Users/cohowe/Documents/LaunchCodeWork/C#/Notes/2.2-DataTypes/2.2-DataTypes/bin/Debug/netcoreapp3.1/2.2-DataTypes.runtimeconfig.json
+/Users/cohowe/Documents/LaunchCodeWork/C#/Notes/2.2-DataTypes/2.2-DataTypes/bin/Debug/netcoreapp3.1/2.2-DataTypes.runtimeconfig.dev.json
+/Users/cohowe/Documents/LaunchCodeWork/C#/Notes/2.2-DataTypes/2.2-DataTypes/bin/Debug/netcoreapp3.1/2.2-DataTypes.dll
+/Users/cohowe/Documents/LaunchCodeWork/C#/Notes/2.2-DataTypes/2.2-DataTypes/bin/Debug/netcoreapp3.1/2.2-DataTypes.pdb
+/Users/cohowe/Documents/LaunchCodeWork/C#/Notes/2.2-DataTypes/2.2-DataTypes/obj/Debug/netcoreapp3.1/2.2-DataTypes.csprojAssemblyReference.cache
+/Users/cohowe/Documents/LaunchCodeWork/C#/Notes/2.2-DataTypes/2.2-DataTypes/obj/Debug/netcoreapp3.1/2.2-DataTypes.AssemblyInfoInputs.cache
+/Users/cohowe/Documents/LaunchCodeWork/C#/Notes/2.2-DataTypes/2.2-DataTypes/obj/Debug/netcoreapp3.1/2.2-DataTypes.AssemblyInfo.cs
+/Users/cohowe/Documents/LaunchCodeWork/C#/Notes/2.2-DataTypes/2.2-DataTypes/obj/Debug/netcoreapp3.1/2.2-DataTypes.csproj.CoreCompileInputs.cache
+/Users/cohowe/Documents/LaunchCodeWork/C#/Notes/2.2-DataTypes/2.2-DataTypes/obj/Debug/netcoreapp3.1/2.2-DataTypes.dll
+/Users/cohowe/Documents/LaunchCodeWork/C#/Notes/2.2-DataTypes/2.2-DataTypes/obj/Debug/netcoreapp3.1/2.2-DataTypes.pdb
+/Users/cohowe/Documents/LaunchCodeWork/C#/Notes/2.2-DataTypes/2.2-DataTypes/obj/Debug/netcoreapp3.1/2.2-DataTypes.genruntimeconfig.cache
